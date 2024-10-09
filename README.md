@@ -18,9 +18,7 @@ A content-based movie recommender system that suggests the top 5 most similar mo
   ![image](https://github.com/user-attachments/assets/fea4c020-2640-491b-ad0b-d583db13609b)
 
 
-## Getting Started 🚀
-
-### Prerequisites
+### Libraries Used
 
 - Python 3.x
 - Required Python Libraries:
